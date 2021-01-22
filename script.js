@@ -1,4 +1,4 @@
-document.getElementById('submit').addEventListener('click',age)
+document.getElementById('submit').addEventListener('click', age)
 function age () {
   const m = document.getElementById('answer').value
   if (m >= 17) {
